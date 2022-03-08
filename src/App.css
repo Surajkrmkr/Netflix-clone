@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: netflixFont;
+    src: url("assets/fonts/NetflixSansRegular.ttf");
+}
+
+
+*{
+    font-family: netflixFont;
+    padding: 0;
+    margin: 0;
+}
+
+.App{
+    background-color: rgb(27, 27, 27);
+}
